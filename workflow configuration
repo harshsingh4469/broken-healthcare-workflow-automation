@@ -1,0 +1,19 @@
+{
+  "name": "John Doe",
+  "policy number": "ABC123456",
+  "insurance": "yes",
+  "coverageValid": "true",
+  "preAuthRequired": "true",
+  "preAuthStatus": "Request Sent",
+  "insuranceCardFile": "card_upload.jpg",
+  "coverageStatus": "valid",
+  "error": "Invalid policy number",
+  
+  "preAuthApiUrl": "https://api.example.com/pre-auth-request",
+  "Verification Log": "true",
+  
+  "verificationSheetId": "1N7uZi8R4cGAGCVmcqIbjdyG-urTkAs71_35ztoC6AeM",
+
+
+  "timestamp": "{{new Date().toISOString()}}"
+}
